@@ -8,6 +8,9 @@
  */
 
 // Your code :
+function getLength(tabl) {
+    return tabl.length;
+}  
 
 //* Begin of tests
 const assert = require('assert')
